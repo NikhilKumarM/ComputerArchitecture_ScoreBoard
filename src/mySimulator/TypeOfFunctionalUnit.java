@@ -1,0 +1,7 @@
+package mySimulator;
+
+public enum TypeOfFunctionalUnit {
+		
+	FPADDUNIT,FPMULTUNIT,FPDIVUNIT,INTEGERUNIT,LSU,BRANCHUNIT,MISLEANEOUS
+}
+
